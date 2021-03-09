@@ -1,11 +1,11 @@
-## Selenium Course Work
+# Selenium Course Work
 
 Course followed from Test Automation University
 
-# Language
+## Language
 
 Java
 
-# Testing frameworks and tools used
+## Testing frameworks and tools used
 
 Maven, TestNG
