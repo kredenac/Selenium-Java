@@ -1,3 +1,3 @@
 # Selenium-Java
 
-Selenium practice (Java)
+Selenium practice (Java, Maven, TestNG)
