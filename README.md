@@ -1,3 +1,11 @@
-# Selenium-Java
+## Selenium Course Work
 
-Selenium practice (Java, Maven, TestNG)
+Course followed from Test Automation University
+
+#Language
+
+Java
+
+#Testing frameworks and tools used
+
+Maven, TestNG
